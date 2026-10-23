@@ -1,1 +1,25 @@
-{"name":"CloudSec Command - CCSP Study","short_name":"CloudSec","start_url":"./index.html","display":"standalone","background_color":"#0b1423","theme_color":"#101b2e","description":"Independent CCSP study companion"}
+{
+  "name": "CloudSec Command - CCSP Study",
+  "short_name": "CloudSec",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1423",
+  "theme_color": "#101b2e",
+  "description": "Independent CCSP study companion",
+  "id": "./",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

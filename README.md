@@ -1,2 +1,1 @@
-# Cloudsec
-Study for ccsp and other certs 
+CloudSec Command PWA install fix. Upload all five files to the root of the GitHub Pages repository, replacing old files. Open the published URL in Chrome on Android, refresh, then choose Install app. Keep all files in the same directory. The app uses relative paths for GitHub Pages subpaths. Existing local progress remains in the same origin/browser.
