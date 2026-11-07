@@ -4,14 +4,14 @@ Mobile-first, offline-capable PWA. This build makes CCSK v5 the first track and 
 
 ## What's in this build
 
-- 180 original practice questions: 15 per CCSK v5 domain, with answer rationales and topic tags.
+- 180 original practice questions: 15 per CCSK v5 domain, including 24 original true/false items, with answer rationales and topic tags.
 - 60-question / 120-minute full mock, 20-question / 40-minute lite mock, 3-question cross-domain micro exam, and one-question / five-minute hourly challenge.
 - Domain lessons, text-first bite-size micro-learning, mixed practice and domain drills.
 - Local progress tracking, export/import backup, flags, exam history and per-domain accuracy.
 - Optional browser notification reminder. The page must remain open for a reliable local timer; closed-app delivery is not guaranteed without a push backend.
 - PWA manifest, service worker and install icons.
 
-All practice questions are original app-authored learning items. They are not live exam questions, recalled items or copied third-party questions. The practice bank is not a guarantee of passing. Mock exams balance questions across domains for practice; CSA does not publish an official domain weighting in the public materials used here.
+All practice questions are original app-authored learning items. They are not live exam questions, recalled items or copied third-party questions. The practice bank is not a guarantee of passing. Mock exams follow the domain counts published in the CSA CCSK v5 Knowledge Guide (July 2026): D1 5, D2 5, D3 5, D4 5, D5 4, D6 4, D7 6, D8 7, D9 5, D10 6, D11 5, D12 3. The public exam includes multiple-choice and true/false formats. The full mock uses the published counts. The lite mock uses proportional domain quotas rounded by largest remainder, with randomized tie-breaking so every lite set contains exactly 20 questions. These are practice distributions, not predictions of live item selection.
 
 ## Publish on GitHub Pages
 
