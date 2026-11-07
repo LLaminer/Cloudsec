@@ -7,7 +7,7 @@ Mobile-first, offline-capable PWA. This build makes CCSK v5 the first track and 
 - 180 original practice questions: 15 per CCSK v5 domain, including 24 original true/false items, with answer rationales and topic tags.
 - 60-question / 120-minute full mock, 20-question / 40-minute lite mock, 3-question cross-domain micro exam, and one-question / five-minute hourly challenge.
 - Domain lessons, text-first bite-size micro-learning, mixed practice and domain drills.
-- Local progress tracking, export/import backup, flags, exam history and per-domain accuracy.
+- Local progress tracking, export/import backup, flags, exam history and per-domain accuracy. Active timed exams resume after a reload in the same browser; the timer continues against its saved deadline.
 - Optional browser notification reminder. The page must remain open for a reliable local timer; closed-app delivery is not guaranteed without a push backend.
 - PWA manifest, service worker and install icons.
 
